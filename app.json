@@ -1,5 +1,5 @@
 {
-  "name": "whatsapp-bot (Ethix-MD)",
+  "name": "Hacker-bot (Annsun-y)",
   "description": " Whatsapp bot.",
   "keywords": [
     "whatsapp bot"
@@ -19,7 +19,7 @@
     },
     "AUTO_STATUS_SEEN": {
       "description": "make it true if you want bot to view status",
-      "required": false,
+      "required": true,
       "value": ""
     },
     "AUTO_READ": {
@@ -49,7 +49,7 @@
     },
     "REJECT_CALL": {
       "description": "make it true if you want to reject call",
-      "required": false,
+      "required": true,
       "value": ""
     }
     },
